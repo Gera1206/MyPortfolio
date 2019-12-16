@@ -1,0 +1,58 @@
+#tablas{
+  border: 0px;
+  width: 1350;
+}
+.Estilo1 {
+	font-size: 9
+}
+.Estilo2 {color: #000000;}
+.Estilo4 {
+  font-family: "C";
+  color: #000000;
+  font-size: 15px;
+}
+.Estilo5 {color: #FF3300}
+a{
+  text-decoration: none;
+  color: black;
+}
+.nompeli{
+  text-align: center;
+  font-size: 50px;
+  color: black;
+}
+.let{
+  font-size: 20px;
+  color: white;
+}
+.cont{
+   background: #666666;
+   height: 400px;
+   width: 1100px;
+   align-self: left;
+ }
+.menusito{
+  text-decoration: none;
+  color: black;
+  background: #b9b9b9e6;
+  border: none;
+  font-size: 30px;
+  font-family: "Comic Sans MS";
+}
+#resu{
+  font-family: "Comic Sans MS";
+  font-size: 15px;
+  color: black;
+}
+#cero{
+  background-color: black;
+  border: 0;
+}
+#nueve{
+  background-color: black;
+  border: 0;
+}
+#desc{
+color:#FFFFFF;
+font-size:12px;
+}
