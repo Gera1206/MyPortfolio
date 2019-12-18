@@ -1,0 +1,142 @@
+body{
+  background-image: url(background.jpg);
+}
+#bace{
+  margin: auto;
+  background-color: #c3d8ff;
+  width: 95%;
+  text-align: center;
+}
+.title{
+  font-family: "Baskerville Old Face";
+  font-size: 120px;
+  color: #151414;
+  height: 15%;
+}
+.subtitle{
+  font-family: "Baskerville Old Face";
+  font-size: 45px;
+  color: #151414;
+  height: auto;
+}
+.icon{
+  width: 64;
+  height: 64;
+}
+.trapecio-1{
+  background-image: url(Trapecio-1.png);
+  height: 52%;
+  width: 95%;
+}
+.trapecio-2{
+  background-image: url(Trapecio-2.png);
+  height: 40%;
+  width: 95%;
+}
+.trapecio-3{
+  background-image: url(Trapecio-3.png);
+  height: 30%;
+  width: 95%;
+}
+.information{
+  height: 10;
+  text-align: center;
+  width: 300;
+  padding-left: 20;
+}
+.titleinformation{
+  text-align: center;
+  width: 350;
+  font-family: "Baskerville Old Face";
+  font-size: 35px;
+  color: #151414;
+  height: 10;
+  padding-left: 20;
+}
+.information2{
+  height: 10;
+  text-align: center;
+  width: 300;
+  font-size: 19px;
+  padding-left: 200;
+}
+.titleinformation2{
+  text-align: center;
+  width: 350;
+  font-family: "Baskerville Old Face";
+  font-size: 35px;
+  color: #151414;
+  height: auto;
+  padding-left: 200;
+}
+.information3{
+  height: 10;
+  text-align: center;
+  width: 400;
+  font-size: 19px;
+  padding-left: 700;
+}
+.titleinformation3{
+  text-align: center;
+  width: 400;
+  font-family: "Baskerville Old Face";
+  font-size: 35px;
+  color: #151414;
+  height: 10;
+  padding-left: 700;
+}
+.finposition{
+  text-align: right;
+  padding-bottom: 20%;
+  width: 390;
+  padding-right: 0;
+  padding-left: 250;
+  height: 10;
+}
+.fin{
+  width: 100;
+  height: 130;
+}
+#tablas{
+  border: 0px;
+  background-color: #a2d3f1;
+}
+.Estilo3 {
+  font-family: "Comic Sans MS";
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  width: 700px;
+  height: 12;
+}
+.Estilo4 {
+  font-family: "Comic Sans MS";
+  color: #000000;
+  font-size: 18px;
+  text-align: justify;
+}
+.menusito{
+  text-decoration: none;
+  color: black;
+  background: #b9b9b9e6;
+  border: none;
+  font-size: 30px;
+  font-family: "Comic Sans MS";
+}
+#resu{
+  font-family: "Comic Sans MS";
+  font-size: 15px;
+  color: black;
+}
+#cero{
+  background-color: black;
+  border: 0;
+}
+#nueve{
+  background-color: black;
+  border: 0;
+}
+#desc{
+color:#FFFFFF;
+font-size:12px;
+}
