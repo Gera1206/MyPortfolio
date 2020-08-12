@@ -1,9 +1,9 @@
 body{
-  background-color: #c5c5c5;
+  background-color: #c5c5c55c;
 }
 #bace{
   margin: auto;
-  background-color: white;
+  background-image: url(bg.jpg);
   width: 95%;
   text-align: center;
 }
@@ -11,7 +11,7 @@ body{
   font-family: "Baskerville Old Face";
   font-size: 120px;
   color: #151414;
-  height: 15%;
+  height: 18%;
 }
 .subtitle{
   font-family: "Baskerville Old Face";
@@ -25,7 +25,7 @@ body{
 }
 .shape-1{
   background-image: url(Trapecio-1.png);
-  height: 50%;
+  height: 53%;
   width: 60%;
   margin-left: 20%;
 }
@@ -57,6 +57,92 @@ body{
   height: 10;
 }
 .Photo{
-  width: 100;
-  height: 130;
+  width: 90;
+  height: 160;
+}
+#HTMIMG{
+  position:absolute;
+  left:0px;
+  top:1170px;
+  width:300px;
+  height:300px;
+  display:flex;
+}
+#CSSIMG{
+  position:absolute;
+  left:215px;
+  top:1170px;
+  width:300px;
+  height:300px;
+  display:flex;
+}
+#JAVIMG{
+  position:absolute;
+  left:470px;
+  top:1220px;
+  width:200px;
+  height:200px;
+  display:flex;
+}
+#NODIMG{
+  position:absolute;
+  left:670px;
+  top:1200px;
+  width:235px;
+  height:235px;
+  display:flex;
+}
+
+#REAIMG{
+  position:absolute;
+  left:875px;
+  top:1200px;
+  width:235px;
+  height:235px;
+  display:flex;
+}
+
+#JVSIMG{
+  position:absolute;
+  left:1090px;
+  top:1210px;
+  width:210px;
+  height:210px;
+  display:flex;
+}
+#HTM{
+  position:absolute;
+  left:140px;
+  top:1200px;
+  display:flex;
+}
+#CSS{
+  position:absolute;
+  left:355px;
+  top:1200px;
+  display:flex;
+}
+#JAV{
+  position:absolute;
+  left:560px;
+  top:1200px;
+  display:flex;
+}
+#NOD{
+  position:absolute;
+  left:760px;
+  top:1200px;
+  display:flex;
+}
+#REA{
+  position:absolute;
+  left:970px;
+  top:1200px;
+  display:flex;
+}
+#JVS{
+  position:absolute;
+  left:1160px;
+  top:1200px;
+  display:flex;
 }
