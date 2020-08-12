@@ -4,3 +4,6 @@ body{
 h1{
   font-size: 70px;
 }
+h4, h5{
+  color: #CCCCCC;
+}
